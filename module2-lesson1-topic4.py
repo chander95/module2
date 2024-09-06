@@ -75,3 +75,20 @@ moat_width = moat_width / 2
 dimensions2 = castle_height * moat_width
 print(dimensions2)
 print("----------------------------------------------")
+
+#additional exercises
+
+num = 7
+
+if num % 2 == 0:
+    print("The number is even!")
+else:
+    print("The number is odd!")
+
+print("----------------------------------------------")
+
+color = "pinkred"
+if "red" in color:
+    print("Hello red!")
+else:
+    print("You're not red!")
