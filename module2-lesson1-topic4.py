@@ -92,3 +92,12 @@ if color == "red":
     print("Hello red!")
 else:
     print("You're not red!")
+
+print("----------------------------------------------")
+
+num = 3
+def is_odd(num): 
+    if num % 2 == 0: 
+        print("true")
+    else:
+        print("False")
