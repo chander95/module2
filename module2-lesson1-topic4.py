@@ -88,7 +88,7 @@ else:
 print("----------------------------------------------")
 
 color = "pinkred"
-if "red" in color:
+if color == "red":
     print("Hello red!")
 else:
     print("You're not red!")
